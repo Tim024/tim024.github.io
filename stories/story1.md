@@ -1,10 +1,10 @@
 ---
 Title: The impact of mega constellations
 Date: 2024-10-02
-Thumbnail: ./jde_ss.png
+Thumbnail: /stories/jde_ss.png
 ---
 
-![Mega Constellations](./jde_ss.png)
+![Mega Constellations](/stories/jde_ss.png)
 
 # The Shocking Truth About Mega Constellations
 
