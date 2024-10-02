@@ -1,10 +1,8 @@
 ---
 Title: The impact of mega constellations
 Date: 2024-10-02
-Thumbnail: /stories/jde_ss.png
+Thumbnail: https://sciencepost.fr/wp-content/uploads/2020/02/starlink-img2-2-720x720-1.jpg
 ---
-
-![Mega Constellations](/stories/jde_ss.png)
 
 # The Shocking Truth About Mega Constellations
 
