@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; URL=./" />
+    <script>
+      // This script redirects to the appropriate route in your SPA
+      const redirectToIndex = () => {
+        const currentURL = window.location.href;
+        const path = currentURL.substring(currentURL.lastIndexOf('/'));
+        if (path !== '/' && path !== '/index.html') {
+          window.history.replaceState(null, '', '/');
+          window.location.replace(`${window.location.origin}/${path}`);
+        }
+      };
+      redirectToIndex();
+    </script>
+  </head>
+  <body>
+  </body>
+</html>

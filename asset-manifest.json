@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf45b209.css",
-    "main.js": "/static/js/main.ac07bd30.js",
+    "main.css": "/static/css/main.325c4f0e.css",
+    "main.js": "/static/js/main.7a9024fb.js",
     "static/media/InterVariable-Italic.woff2": "/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
     "static/media/InterVariable.woff2": "/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
     "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/jde_ss.png": "/static/media/jde_ss.97504972f8f1a20b5631.png",
     "static/media/bg4-large.jpg": "/static/media/bg4-large.0e0888e2b6d6025471df.jpg",
     "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
     "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
@@ -12,13 +13,13 @@
     "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "static/media/SES_White.png": "/static/media/SES_White.da573954289f3c2c12e9.png",
     "static/media/logo3-white.png": "/static/media/logo3-white.d005914b2c7da1842928.png",
-    "static/media/story1.md": "/static/media/story1.852df27315b3343b6c9c.md",
+    "static/media/profilepic.jpeg": "/static/media/profilepic.a5e28eda77ed3296fcb8.jpeg",
     "index.html": "/index.html",
-    "main.bf45b209.css.map": "/static/css/main.bf45b209.css.map",
-    "main.ac07bd30.js.map": "/static/js/main.ac07bd30.js.map"
+    "main.325c4f0e.css.map": "/static/css/main.325c4f0e.css.map",
+    "main.7a9024fb.js.map": "/static/js/main.7a9024fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf45b209.css",
-    "static/js/main.ac07bd30.js"
+    "static/css/main.325c4f0e.css",
+    "static/js/main.7a9024fb.js"
   ]
 }
