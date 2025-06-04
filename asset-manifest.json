@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.65d8ac34.css",
-    "main.js": "/static/js/main.53d2b291.js",
+    "main.css": "/static/css/main.fad2ce30.css",
+    "main.js": "/static/js/main.1a554dfa.js",
     "static/media/InterVariable-Italic.woff2": "/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
     "static/media/InterVariable.woff2": "/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
     "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
@@ -11,14 +11,15 @@
     "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "static/media/SES_White.png": "/static/media/SES_White.da573954289f3c2c12e9.png",
-    "static/media/logo3-white.png": "/static/media/logo3-white.d005914b2c7da1842928.png",
+    "static/media/android-chrome-512x512.png": "/static/media/android-chrome-512x512.2910d3e843ea45f1f22f.png",
     "static/media/profilepic.jpeg": "/static/media/profilepic.a5e28eda77ed3296fcb8.jpeg",
+    "static/media/TP.png": "/static/media/TP.383bf8b036bfabe09c53.png",
     "index.html": "/index.html",
-    "main.65d8ac34.css.map": "/static/css/main.65d8ac34.css.map",
-    "main.53d2b291.js.map": "/static/js/main.53d2b291.js.map"
+    "main.fad2ce30.css.map": "/static/css/main.fad2ce30.css.map",
+    "main.1a554dfa.js.map": "/static/js/main.1a554dfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.65d8ac34.css",
-    "static/js/main.53d2b291.js"
+    "static/css/main.fad2ce30.css",
+    "static/js/main.1a554dfa.js"
   ]
 }
