@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.613e7154.css",
-    "main.js": "/static/js/main.7e9dc227.js",
+    "main.js": "/static/js/main.70942b45.js",
     "static/media/InterVariable-Italic.woff2": "/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
     "static/media/InterVariable.woff2": "/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
     "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
@@ -14,13 +14,14 @@
     "static/media/android-chrome-512x512.png": "/static/media/android-chrome-512x512.2910d3e843ea45f1f22f.png",
     "static/media/profilepic.jpeg": "/static/media/profilepic.a5e28eda77ed3296fcb8.jpeg",
     "static/media/novaspace_logo.png": "/static/media/novaspace_logo.ee47e0800b75fae85cd9.png",
+    "static/media/neustark_logo_w2.png": "/static/media/neustark_logo_w2.be31b11cef5c9db100fd.png",
     "static/media/TP.png": "/static/media/TP.383bf8b036bfabe09c53.png",
     "index.html": "/index.html",
     "main.613e7154.css.map": "/static/css/main.613e7154.css.map",
-    "main.7e9dc227.js.map": "/static/js/main.7e9dc227.js.map"
+    "main.70942b45.js.map": "/static/js/main.70942b45.js.map"
   },
   "entrypoints": [
     "static/css/main.613e7154.css",
-    "static/js/main.7e9dc227.js"
+    "static/js/main.70942b45.js"
   ]
 }
